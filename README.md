@@ -11,3 +11,7 @@ asynchronous programming patterns
 =======
 1. [nodejs-callback-hell](http://www.infoq.com/cn/articles/nodejs-callback-hell)
 2. [callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript](http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript)
+
+control flow libraries
+=======
+1. [introduction to async for better control flow](http://www.sebastianseilund.com/nodejs-async-in-practice)
