@@ -6,6 +6,7 @@ Keep notes of everything about node
 event loops
 =======
 1. [the-javascript-event-loop-explained](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+2. [nodejs 异步之 Timer &Tick](http://cnodejs.org/topic/4f16442ccae1f4aa2700109b)
 
 asynchronous programming patterns
 =======
