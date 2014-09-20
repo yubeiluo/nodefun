@@ -12,6 +12,7 @@ asynchronous programming patterns
 =======
 1. [nodejs-callback-hell](http://www.infoq.com/cn/articles/nodejs-callback-hell)
 2. [callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript](http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript)
+3. [fibers-and-threads-in-node-js-what-for](http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/)
 
 control flow libraries
 =======
