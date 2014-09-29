@@ -20,6 +20,9 @@ Control Flow Libraries
 =======
 1. [introduction to async for better control flow](http://www.sebastianseilund.com/nodejs-async-in-practice)
 
+Useful Packages
+=======
+1. [process usage lookup with nodejs](https://github.com/arunoda/node-usage)
 
 Misc
 =======
