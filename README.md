@@ -24,6 +24,11 @@ Useful Packages
 =======
 1. [process usage lookup with nodejs](https://github.com/arunoda/node-usage)
 
+Useful Tools
+=======
+1. [Modern HTTP benchmarking tool](https://github.com/wg/wrk)
+  - [Installing wrk on OSX](https://github.com/wg/wrk/wiki/Installing-wrk-on-OSX)    
+
 Misc
 =======
 1. [Experimenting with Node](https://news.ycombinator.com/item?id=1548321)
