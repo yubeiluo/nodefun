@@ -29,6 +29,11 @@ Useful Tools
 1. [Modern HTTP benchmarking tool](https://github.com/wg/wrk)
   - [Installing wrk on OSX](https://github.com/wg/wrk/wiki/Installing-wrk-on-OSX)    
 
+Write testable code
+=======
+1. [Testable Apis with NodeJs](http://beletsky.net/2014/03/testable-apis-with-node-dot-js.html)
+2. [Dependency Injection in nodejs](http://csausdev.wordpress.com/2010/12/17/dependency-injection-in-node-js/)
+
 Misc
 =======
 1. [Experimenting with Node](https://news.ycombinator.com/item?id=1548321)
