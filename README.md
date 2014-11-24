@@ -30,6 +30,10 @@ Gulp
 2. [The stream build system](http://gulpjs.com/)
 3. [And just like that Grunt and RequireJS are out, it’s all about Gulp and Browserify now](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/)
 
+Browerify
+=======
+1. [Browserify lets you require('modules') in the browser by bundling up all of your dependencies](http://browserify.org/)
+
 Useful Tools
 =======
 1. [Modern HTTP benchmarking tool](https://github.com/wg/wrk)
