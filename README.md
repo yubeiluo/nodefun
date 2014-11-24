@@ -24,6 +24,11 @@ Useful Packages
 =======
 1. [process usage lookup with nodejs](https://github.com/arunoda/node-usage)
 
+Gulp
+=======
+1. [Grunt vs Gulp - Beyond the Numbers](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
+2. [The stream build system](http://gulpjs.com/)
+
 Useful Tools
 =======
 1. [Modern HTTP benchmarking tool](https://github.com/wg/wrk)
