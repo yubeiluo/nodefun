@@ -28,6 +28,7 @@ Gulp
 =======
 1. [Grunt vs Gulp - Beyond the Numbers](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
 2. [The stream build system](http://gulpjs.com/)
+3. [And just like that Grunt and RequireJS are out, it’s all about Gulp and Browserify now](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/)
 
 Useful Tools
 =======
