@@ -23,6 +23,10 @@ Control Flow Libraries
 Useful Packages
 =======
 1. [process usage lookup with nodejs](https://github.com/arunoda/node-usage)
+  1. streams
+    1. [split](https://www.npmjs.org/package/split)
+    2. [through](https://www.npmjs.org/package/through)
+    3. [concat-stream](https://www.npmjs.org/package/concat-stream)
 
 Gulp
 =======
