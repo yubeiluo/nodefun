@@ -27,6 +27,7 @@ Useful Packages
     1. [split](https://www.npmjs.org/package/split)
     2. [through](https://www.npmjs.org/package/through)
     3. [concat-stream](https://www.npmjs.org/package/concat-stream)
+    4. [nodejs Stream使用手册](http://my.oschina.net/sundq/blog/192276#OSC_h3_6)
 
 Gulp
 =======
