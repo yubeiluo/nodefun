@@ -29,6 +29,7 @@ Useful Packages
     3. [concat-stream](https://www.npmjs.org/package/concat-stream)
     4. [nodejs Stream使用手册](http://my.oschina.net/sundq/blog/192276#OSC_h3_6)
     5. [stream-handbook](https://github.com/substack/stream-handbook)
+2. [Interfaces for IO using Q promises in JavaScript on Node](https://github.com/kriskowal/q-io)
 
 Gulp
 =======
@@ -56,3 +57,5 @@ Misc
 1. [Experimenting with Node](https://news.ycombinator.com/item?id=1548321)
 2. [Stackless Python](http://www.stackless.com/)
 3. [EVE Online Stackless Python Upgrade Q&A](http://www.tentonhammer.com/node/10044)
+4. [Scrolling Elasticsearch using Node.js and Promises](http://www.maori.geek.nz/post/scroll_elasticsearch_using_promises_and_node_js)
+5. [Why should you use CoffeeScript instead of JavaScript?](http://www.maori.geek.nz/post/why_should_you_use_coffeescript_instead_of_javascript)
