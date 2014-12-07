@@ -31,6 +31,10 @@ Useful Packages
     5. [stream-handbook](https://github.com/substack/stream-handbook)
 2. [Interfaces for IO using Q promises in JavaScript on Node](https://github.com/kriskowal/q-io)
 
+Streams
+========
+1. [Practical Examples of the New Node.js Streams API](http://strongloop.com/strongblog/practical-examples-of-the-new-node-js-streams-api/)
+
 Gulp
 =======
 1. [Grunt vs Gulp - Beyond the Numbers](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
