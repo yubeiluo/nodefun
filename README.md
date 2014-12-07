@@ -60,6 +60,11 @@ Benchmark
 ========
 1. [How to measure execution time in Nodejs](http://blog.tompawlak.org/measure-execution-time-nodejs-javascript)
 
+Figures
+========
+1. [http://cm.bell-labs.com/who/dmr/mdmpipe.html](http://cm.bell-labs.com/who/dmr/mdmpipe.html)
+2. [Doug Mcilroy](http://www.cs.bell-labs.com/who/doug/index.html)
+
 Misc
 =======
 1. [Experimenting with Node](https://news.ycombinator.com/item?id=1548321)
