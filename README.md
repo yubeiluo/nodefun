@@ -52,6 +52,10 @@ Write testable code
 2. [Dependency Injection in nodejs](http://csausdev.wordpress.com/2010/12/17/dependency-injection-in-node-js/)
 3. [Testable Javascript](https://docs.google.com/presentation/d/1dp0GOtvl2-pZoxkyzvGvq5zmPdMIDQIBzr2Vv_3JzQo/pub?start=false&loop=false&delayms=3000#slide=id.gd2fff574_0215)
 
+Benchmark
+========
+1. [How to measure execution time in Nodejs](http://blog.tompawlak.org/measure-execution-time-nodejs-javascript)
+
 Misc
 =======
 1. [Experimenting with Node](https://news.ycombinator.com/item?id=1548321)
