@@ -65,6 +65,10 @@ Benchmark
 ========
 1. [How to measure execution time in Nodejs](http://blog.tompawlak.org/measure-execution-time-nodejs-javascript)
 
+Redis Libraries
+========
+1. [auto sharding in your nodejs app](http://ngchi.wordpress.com/2010/08/23/towards-auto-sharding-in-your-node-js-app/)
+
 Figures
 ========
 1. [http://cm.bell-labs.com/who/dmr/mdmpipe.html](http://cm.bell-labs.com/who/dmr/mdmpipe.html)
