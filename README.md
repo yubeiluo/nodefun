@@ -16,6 +16,11 @@ Asynchronous Programming Patterns
 4. [node-fibers](https://github.com/laverdet/node-fibers)
 5. [nodejs-introducing-fibers](https://www.eventedmind.com/feed/nodejs-introducing-fibers)
 
+Garbage Collection
+=======
+1. [Node.js学习笔记：内存控制](http://raytaylorlin.com/Tech/web/Node.js/node-memory-control/)
+2. [Managing Garbage Collection](http://strongloop.com/strongblog/node-js-performance-garbage-collection/)
+
 Control Flow Libraries
 =======
 1. [introduction to async for better control flow](http://www.sebastianseilund.com/nodejs-async-in-practice)
