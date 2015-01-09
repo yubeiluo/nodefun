@@ -1,7 +1,7 @@
 nodefun
 =======
 
-Keep notes of everything about node 
+Keep notes of everything about node v
 
 Event Loops
 =======
@@ -24,6 +24,10 @@ Garbage Collection
 Performance Tuning
 =======
 1. [how-come-q-deferreds-are-so-slow-on-node-js](http://stackoverflow.com/questions/15669116/how-come-q-deferreds-are-so-slow-on-node-js)
+
+V8
+======
+1. [為什麼新的V8引擎這麼快](http://www.greenpublishers.com/neat/200901/3coverstory.pdf)
 
 Control Flow Libraries
 =======
