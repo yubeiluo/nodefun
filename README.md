@@ -21,6 +21,10 @@ Garbage Collection
 1. [Node.js学习笔记：内存控制](http://raytaylorlin.com/Tech/web/Node.js/node-memory-control/)
 2. [Managing Garbage Collection](http://strongloop.com/strongblog/node-js-performance-garbage-collection/)
 
+Performance Tuning
+=======
+1. [how-come-q-deferreds-are-so-slow-on-node-js](http://stackoverflow.com/questions/15669116/how-come-q-deferreds-are-so-slow-on-node-js)
+
 Control Flow Libraries
 =======
 1. [introduction to async for better control flow](http://www.sebastianseilund.com/nodejs-async-in-practice)
