@@ -7,10 +7,11 @@ Prototype and Inheritance
 ========
 1. [Simple Javascript Inheritance](http://ejohn.org/blog/simple-javascript-inheritance/)
 
-All Mighty Event Loops
+All the Mighty Event Loops
 =======
 1. [the-javascript-event-loop-explained](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
 2. [nodejs 异步之 Timer &Tick](http://cnodejs.org/topic/4f16442ccae1f4aa2700109b)
+3. [process.nextTick should be cleared after every v8 invocation](https://github.com/joyent/node/issues/3335)
 
 Asynchronous Programming Patterns
 =======
@@ -29,6 +30,8 @@ Garbage Collection
 Performance Tuning
 =======
 1. [how-come-q-deferreds-are-so-slow-on-node-js](http://stackoverflow.com/questions/15669116/how-come-q-deferreds-are-so-slow-on-node-js)
+2. [Make a dump of the v8 heap for later inspection](https://github.com/bnoordhuis/node-heapdump)
+3. [node.js-runnable v8.log processor](https://github.com/sidorares/node-tick)
 
 V8
 ======
