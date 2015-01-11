@@ -20,6 +20,7 @@ Garbage Collection
 =======
 1. [Node.js学习笔记：内存控制](http://raytaylorlin.com/Tech/web/Node.js/node-memory-control/)
 2. [Managing Garbage Collection](http://strongloop.com/strongblog/node-js-performance-garbage-collection/)
+3. [How to prevent memory leaks in Nodejs?](http://stackoverflow.com/questions/5733665/how-to-prevent-memory-leaks-in-node-js)
 
 Performance Tuning
 =======
