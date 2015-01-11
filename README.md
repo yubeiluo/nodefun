@@ -3,7 +3,11 @@ nodefun
 
 Keep notes of everything about node v
 
-Event Loops
+Prototype and Inheritance
+========
+1. [Simple Javascript Inheritance](http://ejohn.org/blog/simple-javascript-inheritance/)
+
+All Mighty Event Loops
 =======
 1. [the-javascript-event-loop-explained](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
 2. [nodejs 异步之 Timer &Tick](http://cnodejs.org/topic/4f16442ccae1f4aa2700109b)
